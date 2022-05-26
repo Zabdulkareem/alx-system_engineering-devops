@@ -8,4 +8,5 @@
 - 5. *chmod u+x hello* command will add execute permission to the owner of the file 'hello'.
 - 6. *chmod ug+x, o=r hello* command will grant the owner and group execution right only while granting the others read only permission for the file 'hello'.
 - 7. *chmod a+x* command grants the owner, groups and others execution right.
-- 8. *
+- 8. *chmod ug=,o+rwx hello* excludes all the users except the others from read, write, execute permissions.
+- 9. *
