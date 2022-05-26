@@ -4,4 +4,6 @@
 - 1. *whoami* script will print the effective username of the current user.
 - 2. *groups* command will print all the groups the current user is part of.
 - 3. *chown betty hello* changes the owner of the hello file to the user betty.
-- 4. *touch hello* will create an empty file.
+- 4. *touch hello* will create an empty 'file'.
+- 5. *chmod u+x hello* command will add execute permission to the owner of the file 'hello'.
+- 6. 
