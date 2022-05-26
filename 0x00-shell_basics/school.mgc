@@ -1,2 +1,2 @@
 #!/bin/bash
-file "SCHOOL" > school.mgc
+echo 'School' > school.mgc
