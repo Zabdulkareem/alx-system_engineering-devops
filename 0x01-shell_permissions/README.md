@@ -6,4 +6,5 @@
 - 3. *chown betty hello* changes the owner of the hello file to the user betty.
 - 4. *touch hello* will create an empty 'file'.
 - 5. *chmod u+x hello* command will add execute permission to the owner of the file 'hello'.
-- 6. 
+- 6. *chmod ug+x, o=r hello* command will grant the owner and group execution right only while granting the others read only permission for the file 'hello'.
+- 7. *
