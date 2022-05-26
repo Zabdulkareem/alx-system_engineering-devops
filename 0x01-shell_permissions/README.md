@@ -10,4 +10,5 @@
 - 7. *chmod a+x* command grants the owner, groups and others execution right.
 - 8. *chmod 007 hello* excludes all the users except the others from read, write, execute permissions.
 - 9. *chmod 753 hello* sets the mode of the file hello to __rwxr-x-wx__
-- 10. *
+- 10. *chmod --reference=hello olleh* sets the mode of olleh as that of hello
+- 11. *
