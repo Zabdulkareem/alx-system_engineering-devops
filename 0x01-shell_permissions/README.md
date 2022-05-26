@@ -11,4 +11,6 @@
 - 8. *chmod 007 hello* excludes all the users except the others from read, write, execute permissions.
 - 9. *chmod 753 hello* sets the mode of the file hello to __rwxr-x-wx__
 - 10. *chmod --reference=hello olleh* sets the mode of olleh as that of hello
-- 11. *
+- 11. *find *
+- 12. **mkdir -m 751 my_dir** creates a directory (my_dir) with 751 permissions.
+- 13. *chgrp school hello* changes the group owner to school for the file 'hello'.
