@@ -17,4 +17,4 @@
 - 14. *chown vincent:staff* command changes the owner to vincent and group owner to staff for all the files in the working directory.
 - 15. *chown -h vincent:staff _hello* command will change the owner and group owner of _hello to vincent and staff from the working directory.
 - 16. *chown --from=guillame betty hello* command will change the owner of the hello file to betty only if it is owned by the user guillaume
-- 17. *telnet towel.blinkenlights.nl*
+- 17. *telnet towel.blinkenlights.nl* command will play the StarWars fourth episode in the terminal.
