@@ -14,5 +14,7 @@
 - 11. *find *
 - 12. **mkdir -m 751 my_dir** creates a directory (my_dir) with 751 permissions.
 - 13. *chgrp school hello* changes the group owner to school for the file 'hello'.
-- 14. *chown vincent:staff * command changes the owner to vincent and group owner to staff for all the files in the working directory.
-- 15. *
+- 14. *chown vincent:staff* command changes the owner to vincent and group owner to staff for all the files in the working directory.
+- 15. *chown -h vincent:staff _hello* command will change the owner and group owner of _hello to vincent and staff from the working directory.
+- 16. *chown --from=guillame betty hello* command will change the owner of the hello file to betty only if it is owned by the user guillaume
+- 17. *telnet towel.blinkenlights.nl*
