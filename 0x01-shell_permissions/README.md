@@ -14,3 +14,5 @@
 - 11. *find *
 - 12. **mkdir -m 751 my_dir** creates a directory (my_dir) with 751 permissions.
 - 13. *chgrp school hello* changes the group owner to school for the file 'hello'.
+- 14. *chown vincent:staff * command changes the owner to vincent and group owner to staff for all the files in the working directory.
+- 15. *
