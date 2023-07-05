@@ -16,4 +16,9 @@ available for Linux systems include: bash, ksh, zsh and tcsh.
 0. [Where am I]()
  * **pwd:** This prints the absolute path name of the current working directory.
 1. [What's in there?]()
- * **ls:** This shows the list of the content in your current directory
+ * **ls:** This shows the list of the content in your current directory.
+2. [There is no place like home]()
+ * **cd:** This command changes the working directory to the user's home directory.
+3. [The long format]()
+ * **ls -l:** The command lists the content of the current directory in a long format.
+4. []()
