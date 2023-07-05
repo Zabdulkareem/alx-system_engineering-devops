@@ -30,3 +30,13 @@ available for Linux systems include: bash, ksh, zsh and tcsh.
 
 7.  [Betty in my first directory](https://github.com/Zabdulkareem/alx-system_engineering-devops/blob/master/0x00-shell_basics/7-movethatfile)
 * `mv /tmp/betty /tmp/my_first_directory` moves the file **betty** into */tmp/my_first_directory* dir.
+
+8. [Bye bye Betty](https://github.com/Zabdulkareem/alx-system_engineering-devops/blob/master/0x00-shell_basics/8-firstdelete)
+*  `rm -rf /tmp/my_first_directory` Removes the file **betty** from */tmp/my_first_directory* dir.
+
+9.  [Bye bye My first directory](https://github.com/Zabdulkareem/alx-system_engineering-devops/blob/master/0x00-shell_basics/9-firstdirdeletion)
+* `rm -rf /tmp/my_first_directory` Removes the dir **my_first_directory** from */tmp/*
+10.  [Back to the future](https://github.com/Zabdulkareem/alx-system_engineering-devops/blob/master/0x00-shell_basics/10-back)
+* `cd -` This command changes the working directory to the previous one
+11.  [Lists](https://github.com/Zabdulkareem/alx-system_engineering-devops/blob/master/0x00-shell_basics/11-lists)
+*  `ls -la ./ ../ /boot` Will list all files including hidden ones in the current, parent and boot dir
