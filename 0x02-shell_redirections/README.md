@@ -14,7 +14,7 @@
 ./0-hello_world
 
 ### displays a confused smiley `"(Ôo)'`
-.\1-confused_smiley
+./1-confused_smiley
 ```
 
 
