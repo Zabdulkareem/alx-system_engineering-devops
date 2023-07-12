@@ -13,3 +13,4 @@ available for Linux systems include: bash, ksh, zsh and tcsh.
 1. [0x01-shell_permissions](https://github.com/Zabdulkareem/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
  > Types of linux file permissions.
 2. [0x02-Shell, I/O Redirections and filters](https://github.com/Zabdulkareem/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
+3. [0x03-shell_variables_expansions](https://github.com/Zabdulkareem/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
